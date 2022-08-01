@@ -91,3 +91,7 @@ def 法人事業税計算(所得, 寄付金, 資本金)
   puts "寄付金損金算入効果 #{寄付金損金算入効果.round}"
   puts "自己負担額 #{(自己負担額).round}"
   puts "自己負担割合 #{(自己負担割合).round(2)}%"
+
+  test 
+  teadfasdfasdfasdf
+  
